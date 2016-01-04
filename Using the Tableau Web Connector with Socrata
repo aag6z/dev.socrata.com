@@ -1,0 +1,10 @@
+This guide describes how to use Tableau's new Web Data Connectors available in version >9.1 to import data published on the Socrata platform into Tableau.
+Read more about the Web Data Connectors and SDK here: http://www.tableau.com/about/blog/2015/8/connect-just-about-any-web-data-new-web-data-connector-42246
+
+
+## Prerequisites
+Before you begin this tutorial, you should have the following:
+* An installed copy of Tableau Desktop version 9.1 or higher
+* An IDE to edit the web connector code
+* Viewer access to the dataset you'd like to pull into Tableau
+
